@@ -26,7 +26,7 @@ This program uses the CSV files provided by RobotEvents.com to rank Vex EDR High
 ### In progress
 * Display competitions nicely
 ### TODO
-.
+* Implement skills
 # Sprint Task List
 
 #### Complete
