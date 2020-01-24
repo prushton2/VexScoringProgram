@@ -1,7 +1,3 @@
-# Vex Scoring Program
-
-This program uses the CSV files provided by RobotEvents.com to rank Vex EDR High School teams from the Southern New England region.
-
 # Structure
 * Json Files
   * Competitions:
@@ -25,19 +21,23 @@ This program uses the CSV files provided by RobotEvents.com to rank Vex EDR High
 
 ### In progress
 * Display competitions nicely
+
 ### TODO
-* Implement skills
+.
 # Sprint Task List
+* Implement skills
 
 #### Complete
 .
 #### In progress
 * Create comp class
+
 #### TODO
 * Use similar print format from the teams match printing
 * Allow multiple comps to be shown at once
 * Allow highlighting of certain teams
   * Also implement into the teams class
+
 # Json format:
 
 ## Comps:
