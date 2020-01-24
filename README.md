@@ -1,4 +1,4 @@
-# VexScoringProgram
+# Vex Scoring Program
 
 This program uses the CSV files provided by RobotEvents.com to rank Vex EDR High School teams from the Southern New England region.
 
